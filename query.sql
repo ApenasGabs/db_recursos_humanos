@@ -18,5 +18,6 @@ INSERT INTO tb_colaboradores (Nome, Cargo, Salario, DataContratacao) VALUES
 SELECT * FROM tb_colaboradores WHERE Salario > 2000;
 
 SELECT * FROM tb_colaboradores WHERE Salario < 2000;
+
 SELECT * FROM tb_colaboradores;
 UPDATE tb_colaboradores SET Salario = 3500.00 WHERE ID = 1;
