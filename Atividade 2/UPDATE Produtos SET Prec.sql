@@ -1,1 +1,1 @@
-UPDATE tb_produtos SET Preco = 230.00 WHERE id = 2;
+UPDATE tb_produtos SET Preco = 230.00 WHERE ID = 2;
