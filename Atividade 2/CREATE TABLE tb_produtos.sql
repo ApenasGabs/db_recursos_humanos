@@ -1,4 +1,4 @@
-CREATE TABLE tb_tb_produtos (
+CREATE TABLE tb_produtos (
     ID INT AUTO_INCREMENT PRIMARY KEY,
     Nome VARCHAR(255),
     Descricao TEXT,
